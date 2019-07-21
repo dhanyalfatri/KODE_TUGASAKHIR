@@ -1,4 +1,9 @@
-# KODE_TUGASAKHIR
-TEAM PEMBUAT
-Hazmi Ramadhan Al Fatri (171080200184)
-Wahyu Nur Islamudin (171080200165)
+#Aplikasi E-Commerce Penjualan Spare Part Komputer (PHP, MySQL, CMS Toko Lokomedia)
+Login pengguna:
+
+Administrator:
+
+    Username: admin
+    Password: admin
+
+Semoga bermanfaat.
