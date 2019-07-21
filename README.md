@@ -1,1 +1,4 @@
 # KODE_TUGASAKHIR
+TEAM PEMBUAT
+Hazmi Ramadhan Al Fatri (171080200184)
+Wahyu Nur Islamudin (171080200165)
